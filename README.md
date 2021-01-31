@@ -37,6 +37,7 @@ chmod u+x install.sh
 ./install.sh
 ```
 USAGE 📌
+<p><img src="https://telegra.ph/file/f8ca897d025c88ab5a7bf.jpg?resize=768%2C479&ssl=1"></p>
 
 ✅ Share desired videos/ open in termux from youtube
 
