@@ -12,7 +12,7 @@ Using this tool you can easily Download YouTube, Facebook, Instagram videos and 
 
 
 ## Usage:
-#### First Do Setup:
+### First Do Setup:
 ```bash
 apt install git -y
 
@@ -24,6 +24,13 @@ chmod +x setup.sh
 
 ./setup.sh
 ```
+### Share YouTube Video to Termux:
+[![Share Video](https://telegra.ph/file/265d9e748f703f227dbca.jpg)](https://t.me/linux_repo)
+
+[![With Termux](https://telegra.ph/file/8fd546c37ab766da2b1c8.jpg)](https://t.me/linux_repo)
+
+#### Note:
+
 
 ## License:
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com)
