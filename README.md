@@ -18,9 +18,9 @@ apt update && apt -y upgrade //or[ apt-get update && apt-get upgrade]
 
 termux-setup-storage
 
-pkg install -y python
+pkg install -y python wget
 
-pip install youtube-dl
+pip3 install youtube-dl
 
 mkdir ~/storage/shared/Youtube
 
