@@ -36,7 +36,15 @@ chmod u+x install.sh
 
 ./install.sh
 ```
+USAGE 📌
 
+✅ Share desired videos/ open in termux from youtube
+
+✅youtube-dl --verbose --ignore-errors --restrict-filenames --extract-audio --audio-format mp3 -cit https://www.youtube.com/playlist?list=PLjcfzjE9i6z_HQxkHHUjx4MUnAUxNbf0g
+
+✅ pip install --upgrade youtube-dl
+
+✅ youtube-dl --verbose --ignore-errors --restrict-filenames --extract-audio --audio-format mp3 https://youtu.be/ttDT1GlM4Z8[
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## License
