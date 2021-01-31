@@ -5,6 +5,9 @@ Using this tool you can easily add so many members from any Group or Channel to 
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 #### Join Telegram group for help, feedback, details and chats.
 
+## Status
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/AbirHasan2005/Telegram-Channel-Scrapper)
+
 ## How to Setup API:
 - Go to https://my.telegram.org and Login.
 - Click on API development tools and fill the required fields.
