@@ -1,4 +1,4 @@
-# Termux YouTube-DL Pro
+# LR-YTDL
 Using this tool you can easily Download YouTube, Facebook, Instagram videos and audio using Termux.
 
 ## Telegram Support Group:
@@ -14,6 +14,8 @@ Using this tool you can easily Download YouTube, Facebook, Instagram videos and 
 ## Usage:
 #### First Do Setup:
 ```bash
+apt install git -y
+
 git clone https://github.com/AbirHasan2005/LR-YTDL
 
 cd LR-YTDL
