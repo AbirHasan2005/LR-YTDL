@@ -10,19 +10,31 @@ Using this tool you can easily add so many members from any Group or Channel to 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
 
 
-## How to Setup API:
-- Go to https://my.telegram.org and Login.
-- Click on API development tools and fill the required fields.
-- Put app name you want & select Other in Platform.
-- After clicking Create App, Copy "api_id" & "api_hash" from there. (This will be used in `setup.py`)
-<p><img src="https://i1.wp.com/python.gotrained.com/wp-content/uploads/2019/01/desc.png?resize=768%2C479&ssl=1"></p>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
 ```
-start - check whether bot is alive 
+apt update && apt -y upgrade //or[ apt-get update && apt-get upgrade]
 
-about - to know about me
+termux-setup-storage
+
+pkg install -y python
+
+pip install youtube-dl
+
+mkdir ~/storage/shared/Youtube
+
+mkdir -p ~/.config/youtube-dl
+
+mkdir ~/bin
+
+wget https://pastebin.com/raw/MW4uqwcK -O ~/bin/termux-url-opener
+
+dos2unix ~/bin/termux-url-opener
+
+chmod u+x install.sh
+
+./install.sh
 ```
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -45,7 +57,7 @@ $ `python3 add2group.py members.csv`
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
-- [ABIR HASAN](https://telegram.dog/AbirHasan2005) for his Telegram Scrapper v1
+
 
 - [CYBER WARRIOR](https://telegram.dog/Cyberw4rriors) ❤
 
