@@ -45,7 +45,7 @@ chmod u+x install.sh
 
 #### Or,
 
-$ `python3 add2group.py members.csv`
+$ `./install.sh`
 
 - If you need more help <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ---
