@@ -1,4 +1,4 @@
-# TelegramScrapper Pro  ![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/TelegramScraper?label=Repo%20Size)
+# Terminal Youtube-dl pro  ![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/TelegramScraper?label=Repo%20Size)
 Using this tool you can easily add so many members from any Group or Channel to your Channel. Less than 3 minutes. Super easy. Time saver. But this tool is only for educational purpose. You could be banned from Telegram. So be careful. Recommanded to use this tool only on Termux.
 
 ## Telegram Group:
