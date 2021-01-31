@@ -40,7 +40,7 @@ $ `python3 add2group.py members.csv`
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
-- [ABIR HASAN'](https://telegram.dog/AbirHasan2005) for his Telegram Scrapper v1
+- [ABIR HASAN](https://telegram.dog/AbirHasan2005) for his Telegram Scrapper v1
 
 - [CYBER WARRIOR](https://telegram.dog/Cyberw4rriors) ❤
 
