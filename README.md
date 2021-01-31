@@ -6,19 +6,12 @@ Using this tool you can easily Download YouTube, Facebook, Instagram videos and 
 
 * Join Telegram group for help, feedback, details and chats.
 
-## Status:
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/AbirHasan2005/LR-YTDL)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
-
-
 ## Usage:
 ### First Do Setup:
 ```bash
-apt install git -y
+apt install wget -y
 
-git clone https://github.com/AbirHasan2005/LR-YTDL
-
-cd LR-YTDL
+wget https://github.com/AbirHasan2005/LR-YTDL/raw/master/setup.sh
 
 chmod +x setup.sh
 
