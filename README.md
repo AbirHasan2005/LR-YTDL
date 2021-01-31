@@ -7,7 +7,6 @@ Using this tool you can easily add so many members from any Group or Channel to 
 
 ## Status
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/AbirHasan2005/Telegram-Channel-Scrapper)
-![Forks](https://img.shields.io/github/AbirHasan2005/Telegram-Channel-Scrapper)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
 
 
