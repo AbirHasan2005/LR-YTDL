@@ -7,7 +7,7 @@ sleep 2
 cd ~
 apt update && apt upgrade -y
 apt install python wget dos2unix -y
-pip3 install youtube-dl
+pip3 install --upgrade youtube-dl
 clear
 printf "\n Setting Up Storage ... \n"
 sleep 2
