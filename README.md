@@ -26,7 +26,7 @@ chmod +x setup.sh
 
 
 ## License:
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com)
+[![GitHub](https://img.shields.io/github/license/AbirHasan2005/LR-YTDL?color=blue)](https://github.com/AbirHasan2005/LR-YTDL/blob/master/LICENSE)
 
 - If you need more help:
     - <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
